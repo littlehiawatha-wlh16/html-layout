@@ -1,0 +1,132 @@
+
+body {
+   padding: 20px;
+}
+#top-box {
+   border: solid black 5px;
+   width: 90vw;
+   padding: 20px
+
+}
+
+#purple-box {
+   height: 100px;
+   width: 80px;
+   background-color: purple;
+   display: inline-block;
+   margin-right: 50px;
+}
+
+#green-box {
+   height: 200px;
+   width: 400px;
+   background-color: green;
+   display: inline-block;
+   margin-right: 50px;
+}
+
+#blue-circle {
+   height: 200px;
+   width: 200px;
+   background-color: skyblue;
+   display: inline-block;
+   border-radius: 50%;
+
+
+}
+
+#middle-box {
+   border: dotted 5px black;
+   height: 300px;
+   width 90vw;
+   padding: 20px
+}
+
+#box-shadow{
+   width: 90vw;
+   height: 240px;
+   background-color: bisque;
+   margin: 50px auto;
+   box-shadow: 8px 8px 8px black;
+   
+}
+
+#bottom-box {
+   height: 300px;
+   width: 50vw;
+   border: 1px gray  solid;
+   padding: 100px;
+   box-sizing: 0 auto;
+   margin: 0 auto;
+
+}
+
+p{
+   font-size: 30px;
+   color: navy;
+   text-align: center;
+   word-wrap: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container-1 {
+   border: solid 5px black;
+   width: 100%;
+}
+
+div.shape {
+   width: 50px;
+   height: 150px;
+   background-color: rebeccapurple;
+   display: inline-block
+   
+}
+
+div.rectangle{
+   width: 400px;
+   height: 200px;
+   background-color: green;
+   display: inline-block
+
+}
+
+.circle {
+   width: 200px;
+   height: 200px;
+   background-color: skyblue;
+   border-radius: 50%;
+   display: inline-block
+
+   
+}
+
+.container-2{
+   border: dotted 5px black;
+   width: 100%;
+
+}
+
+.shadowBox {
+   width: 900px;
+   height: 200px;
+   background-color: bisque;
+   
+} */
+

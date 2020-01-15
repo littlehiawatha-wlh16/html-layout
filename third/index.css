@@ -1,0 +1,60 @@
+
+ * {
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+
+header{
+   background-color: grey;
+   height: 10vh;
+   width: 100vw;
+   padding: 1vh;
+}
+
+.icon {
+   height: 60px;
+   width: 60px;
+   background-color: skyblue;
+}
+#span-text {
+   background-color: salmon;
+   height: 30vh;
+   width: 100vw;
+   padding: 100px;
+
+   font-family: 'Dancing Script', cursive;
+   font-size: larger;
+
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+div {
+   height: 15vh;
+   widows: 100vw;
+    
+   
+}
+
+#div2 {
+   background-color: sandybrown;
+
+}
+#div3 {
+   background-color: blueviolet;
+   
+}
+#div4 {
+   background-color: chocolate;
+   
+}
+#div5 {
+   background-color: orchid;
+   
+}
